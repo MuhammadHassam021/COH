@@ -1,0 +1,26 @@
+.ms-Persona-imageArea{
+    height: 96px !important;
+    width: 75px !important;
+}
+.ms-Persona-image{
+    width: 75px !important;
+    height: 75px !important;
+}
+
+.ms-Persona-primaryText{
+    font-weight: 600 !important;
+}
+
+.ms-Persona-secondaryText{
+    font-size: 14px;
+    color: #71afe5;
+}
+
+.ms-DocumentCardActions-action{
+    float: unset !important;
+}
+
+/* .ms-Button-icon{
+    color: rgb(216, 247, 136) !important;
+    font-size: 23px !important;
+} */
